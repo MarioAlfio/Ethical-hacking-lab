@@ -18,7 +18,7 @@ Le VM comunicano su una rete NAT/Host-only isolata dalla rete di produzione.
 | Progetto | Descrizione |
 |----------|-------------|
 | [network-scanner](./network_scanner.py) | Scoperta di dispositivi attivi sulla rete tramite ARP |
-| [arp-spoofer](./arp-spoofer.py) | Attacco Man-in-the-Middle tramite ARP spoofing |
+| [arp-spoofer](./arp-spoof.py) | Attacco Man-in-the-Middle tramite ARP spoofing |
 
 ## Requisiti
 
